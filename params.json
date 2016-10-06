@@ -1,0 +1,6 @@
+{
+  "name": "GetGes",
+  "tagline": "First step to develop an app with Myo Armband",
+  "body": "### Welcome to GetGes page.\r\nThis framework provides an introductory steps for developing gesture recognition module using the Myo Armband. GetGes supports both Windows and macOS environment, which are represented with Microsoft's Visual Studio and Xcode respectively. With an OpenCV3.0 support, you can utilize all machine learning modules in GetGes project. Also GetGes is able to handle multiple Myos, as you can see the sensory data graph in the individual window.\r\n\r\n### Developing Environment\r\n#### Windows\r\n* Windows 10\r\n* Microsoft's Visual Studio 2013\r\n\r\n#### macOS\r\n* macOS Sierra 10.12\r\n* Xcode 7.3\r\n\r\n#### common\r\n* Myo Connect 1.0.1\r\n* OpenCV 3.0.0\r\n\r\n### Support or Contact\r\nHaving trouble with GetGes? Please give me an e-mail to [your.jinki.jung@gmail] and we’ll help you sort it out.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
